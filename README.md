@@ -4,7 +4,7 @@
 <h1 align="center">Olá seja bem vindo, eu sou o Gustavo Moretti 👋</h1>
 <h3 align="center">Formado em ciência da computação e pós-graduado em gestão de TI</h3>
 
-- 👨‍🏫 Trabalho como professor de dev. back-end e soluções cloud(AWS) na instituição CPS. E coordeno projetos de pesquisa em computação e robótica. 
+- 👨‍🏫 Trabalho como professor de dev. back-end e soluções cloud(AWS) na instituição CPS, e coordeno projetos de pesquisa em computação e robótica. 
 - 📚 Atualmente estou estudando Data Analytics em Python, principais serviços AWS, Pipelines de ML em Python usando AWS, análise e extração de dados Python/AWS e desenvolvimento back-end em Python.
 - 🤝 Busco colaborar em projetos de Data Analytics, desenvolvimento de software back-end em Python ou Java. E problemas de Machine learning e extração de dados usando Python.
 - 📫 Meu e-mail: gustavo.moretti.souza@hotmail.com
