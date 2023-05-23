@@ -25,4 +25,4 @@
 
 <p align="center">&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=gumorettis&show_icons=true&locale=en" alt="gumorettis" /></p>
 
-👨‍💻 All Projects: https://github.com/Gumorettis
+👨‍💻 Projetos atuais: https://github.com/Gumorettis/portfolioDataAnalytics
