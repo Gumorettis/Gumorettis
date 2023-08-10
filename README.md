@@ -25,4 +25,4 @@
 
 
 
-👨‍💻 Projetos atuais: https://github.com/Gumorettis/portfolioDataAnalytics
+👨‍💻 Projetos diversos de Data Analytics(Miscellaneous Data Analytics projects): https://github.com/Gumorettis/portfolioDataAnalytics
